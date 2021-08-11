@@ -4,6 +4,9 @@
 <link href="https://fonts.googleapis.com/css?family=Chakra+Petch|Oxanium|Roboto+Slab|Source+Sans+Pro&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/s/bootstrap.min.css">
 <link rel="stylesheet" href="assets/s/sojember.css">
+<link rel="stylesheet" href="assets/s/sojember-800.css">
+<link rel="stylesheet" href="assets/s/sojember-555.css">
+<link rel="stylesheet" href="assets/s/sojember-440.css">
 <link rel="icon" type="image/png" href="assets/i/soj.png">
 
 </head>
